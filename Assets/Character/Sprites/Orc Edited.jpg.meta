@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 3e2a3e7f02abcf84c81bf6c8a0f661fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6517857898445992082
+    second: Orc Edited_0
+  - first:
+      213: 1155949770006006535
+    second: Orc Edited_1
+  - first:
+      213: 7348532875042263596
+    second: Orc Edited_2
+  - first:
+      213: 626591412810039820
+    second: Orc Edited_3
+  - first:
+      213: -1624008861503883794
+    second: Orc Edited_4
+  - first:
+      213: 1179491579619062367
+    second: Orc Edited_5
+  - first:
+      213: -4351024461931160300
+    second: Orc Edited_6
+  - first:
+      213: -3619456764176426938
+    second: Orc Edited_7
+  - first:
+      213: -1002060390334158487
+    second: Orc Edited_8
+  - first:
+      213: 4282133704919283602
+    second: Orc Edited_9
+  - first:
+      213: 7203341752450300614
+    second: Orc Edited_10
+  - first:
+      213: -534622032203241954
+    second: Orc Edited_11
+  - first:
+      213: 1487123852186596512
+    second: Orc Edited_12
+  - first:
+      213: 6921281239860857890
+    second: Orc Edited_13
+  - first:
+      213: 944232551077564382
+    second: Orc Edited_14
+  - first:
+      213: -2294452349731822330
+    second: Orc Edited_15
+  - first:
+      213: -6336829420249057776
+    second: Orc Edited_16
+  - first:
+      213: 8275115264556229491
+    second: Orc Edited_17
+  - first:
+      213: 9071784128156551402
+    second: Orc Edited_18
+  - first:
+      213: 8400905775248630243
+    second: Orc Edited_19
+  - first:
+      213: 3462056681131604855
+    second: Orc Edited_20
+  - first:
+      213: -2854384673747329212
+    second: Orc Edited_21
+  - first:
+      213: -564487643914707291
+    second: Orc Edited_22
+  - first:
+      213: -8075952784728085159
+    second: Orc Edited_23
+  - first:
+      213: 5212365642303571564
+    second: Orc Edited_24
+  - first:
+      213: 633784430978754649
+    second: Orc Edited_25
+  - first:
+      213: -8331200844033951279
+    second: Orc Edited_26
+  - first:
+      213: -4561055894686690928
+    second: Orc Edited_27
+  - first:
+      213: 2895202992393427215
+    second: Orc Edited_28
+  - first:
+      213: 1402836467135067666
+    second: Orc Edited_29
+  - first:
+      213: -7151571263950620401
+    second: Orc Edited_30
+  - first:
+      213: -3784006410738928581
+    second: Orc Edited_31
+  - first:
+      213: 2650010715304226354
+    second: Orc Edited_32
+  - first:
+      213: 9172848181860647911
+    second: Orc Edited_33
+  - first:
+      213: -7793435593802359176
+    second: Orc Edited_34
+  - first:
+      213: 3833007790223251560
+    second: Orc Edited_35
+  - first:
+      213: -3289251711909233947
+    second: Orc Edited_36
+  - first:
+      213: 8324648158975329222
+    second: Orc Edited_37
+  - first:
+      213: -1286635621225095557
+    second: Orc Edited_38
+  - first:
+      213: 6234260940184047406
+    second: Orc Edited_39
+  - first:
+      213: -1263138032117551620
+    second: Orc Edited_40
+  - first:
+      213: 4849025816190155785
+    second: Orc Edited_41
+  - first:
+      213: -583395964283607923
+    second: Orc Edited_42
+  - first:
+      213: 9050811026686019860
+    second: Orc Edited_43
+  - first:
+      213: -603067940994872421
+    second: Orc Edited_44
+  - first:
+      213: -7249367591419260896
+    second: Orc Edited_45
+  - first:
+      213: -7162415065382392566
+    second: Orc Edited_46
+  - first:
+      213: 832389221265391666
+    second: Orc Edited_47
+  - first:
+      213: -5189760320776972106
+    second: Orc Edited_48
+  - first:
+      213: 6878269940949363722
+    second: Orc Edited_49
+  - first:
+      213: -6282383437491267690
+    second: Orc Edited_50
+  - first:
+      213: -8474884368364946246
+    second: Orc Edited_51
+  - first:
+      213: 2014166182507200987
+    second: Orc Edited_52
+  - first:
+      213: -2651531695231598609
+    second: Orc Edited_53
+  - first:
+      213: -3342221658688486884
+    second: Orc Edited_54
+  - first:
+      213: 8354016061915433899
+    second: Orc Edited_55
+  - first:
+      213: 351132097274963169
+    second: Orc Edited_56
+  - first:
+      213: 1834782053213168647
+    second: Orc Edited_57
+  - first:
+      213: -9063774592631654795
+    second: Orc Edited_58
+  - first:
+      213: -9213588596481197501
+    second: Orc Edited_59
+  - first:
+      213: 8472332545132905035
+    second: Orc Edited_60
+  - first:
+      213: -1974130067866343555
+    second: Orc Edited_61
+  - first:
+      213: -7345896777824964413
+    second: Orc Edited_62
+  - first:
+      213: 673448028259515875
+    second: Orc Edited_63
+  - first:
+      213: -7745382842581059116
+    second: Orc Edited_64
+  - first:
+      213: -9141152307583838700
+    second: Orc Edited_65
+  - first:
+      213: -4416688200100390299
+    second: Orc Edited_66
+  - first:
+      213: 3690585780096940877
+    second: Orc Edited_67
+  - first:
+      213: -5155736833812348425
+    second: Orc Edited_68
+  - first:
+      213: -642200334575508525
+    second: Orc Edited_69
+  - first:
+      213: 2099918152858358535
+    second: Orc Edited_70
+  - first:
+      213: -2367669000374341019
+    second: Orc Edited_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc Edited_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f07a246caeb85a0800000000000000
+      internalID: -6517857898445992082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b076bf032ca0010800000000000000
+      internalID: 1155949770006006535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229c2537bb3bf560800000000000000
+      internalID: 7348532875042263596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c024ad3f19912b800800000000000000
+      internalID: 626591412810039820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee579f97b8c5679e0800000000000000
+      internalID: -1624008861503883794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5232caa7556e5010800000000000000
+      internalID: 1179491579619062367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dde89fd4e0e93c0800000000000000
+      internalID: -4351024461931160300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648116bef3b15cdc0800000000000000
+      internalID: -3619456764176426938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a4a65267f712f0800000000000000
+      internalID: -1002060390334158487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f07abae13d6b30800000000000000
+      internalID: 4282133704919283602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3a8ea82967f360800000000000000
+      internalID: 7203341752450300614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 268
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ad612814a498f0800000000000000
+      internalID: -534622032203241954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4b792b34353a410800000000000000
+      internalID: 1487123852186596512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4b7cfd945d0060800000000000000
+      internalID: 6921281239860857890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfc650a0869a1d00800000000000000
+      internalID: 944232551077564382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ac249eb77820e0800000000000000
+      internalID: -2294452349731822330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_16
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0167fcb573f0f08a0800000000000000
+      internalID: -6336829420249057776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_17
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373694b5d7d17d270800000000000000
+      internalID: 8275115264556229491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_18
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84cc5a99375ed70800000000000000
+      internalID: 9071784128156551402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e83dea43069470800000000000000
+      internalID: 8400905775248630243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bfd1f6532bb0030800000000000000
+      internalID: 3462056681131604855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_21
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f98fc23403368d0800000000000000
+      internalID: -2854384673747329212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_22
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aedd588a798a28f0800000000000000
+      internalID: -564487643914707291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 215
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95da4730bb37cef80800000000000000
+      internalID: -8075952784728085159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6684f47fea065840800000000000000
+      internalID: 5212365642303571564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95869a00597abc800800000000000000
+      internalID: 633784430978754649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9fbe219f0a16c80800000000000000
+      internalID: -8331200844033951279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919f7c44dfd3b0c0800000000000000
+      internalID: -4561055894686690928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09124a38c3dd2820800000000000000
+      internalID: 2895202992393427215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216bc859550e77310800000000000000
+      internalID: 1402836467135067666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09f45a73d380cc90800000000000000
+      internalID: -7151571263950620401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_31
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fa1cc7328c7bc0800000000000000
+      internalID: -3784006410738928581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eefa884bab6c420800000000000000
+      internalID: 2650010715304226354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_33
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3446252d08c4f70800000000000000
+      internalID: 9172848181860647911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_34
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e568b6e9728d390800000000000000
+      internalID: -7793435593802359176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_35
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 162
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868df8de644913530800000000000000
+      internalID: 3833007790223251560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafdc6cefa3a52d0800000000000000
+      internalID: -3289251711909233947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c385db0567178370800000000000000
+      internalID: 8324648158975329222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e938928b3f42ee0800000000000000
+      internalID: -1286635621225095557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_39
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f43c86b4b848650800000000000000
+      internalID: 6234260940184047406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_40
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde855f6ae687ee0800000000000000
+      internalID: -1263138032117551620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_41
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c76b0e9433b4340800000000000000
+      internalID: 4849025816190155785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84aa71267c57e7f0800000000000000
+      internalID: -583395964283607923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_43
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190fceeca0fa9d70800000000000000
+      internalID: 9050811026686019860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b039127e871a7f0800000000000000
+      internalID: -603067940994872421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_45
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020d93b9592156b90800000000000000
+      internalID: -7249367591419260896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de9f5327df99c90800000000000000
+      internalID: -7162415065382392566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_47
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 109
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2304368269d3d8b00800000000000000
+      internalID: 832389221265391666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8dbaa1c744af7b0800000000000000
+      internalID: -5189760320776972106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_49
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ca8839116847f50800000000000000
+      internalID: 6878269940949363722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69719819c8d70d8a0800000000000000
+      internalID: -6282383437491267690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_51
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb81f9199236a80800000000000000
+      internalID: -8474884368364946246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd142f2b871c3fb10800000000000000
+      internalID: 2014166182507200987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_53
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff70bb8fdd33bd0800000000000000
+      internalID: -2651531695231598609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128149fb1b0e91d0800000000000000
+      internalID: -3342221658688486884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab806ac85d6fe370800000000000000
+      internalID: 8354016061915433899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4ef4738c87fd400800000000000000
+      internalID: 351132097274963169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_57
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704680a6e84767910800000000000000
+      internalID: 1834782053213168647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_58
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576baf9a701073280800000000000000
+      internalID: -9063774592631654795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_59
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 56
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af528bcf1c22080800000000000000
+      internalID: -9213588596481197501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c0abbf85c39570800000000000000
+      internalID: 8472332545132905035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_61
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77a864a92b7a94e0800000000000000
+      internalID: -1974130067866343555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_62
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c07e010dc12e0a90800000000000000
+      internalID: -7345896777824964413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_63
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7813e961985900800000000000000
+      internalID: 673448028259515875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_64
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9fc8a675fd28490800000000000000
+      internalID: -7745382842581059116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41619bc786a142180800000000000000
+      internalID: -9141152307583838700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_66
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a5b5d8b75c4b2c0800000000000000
+      internalID: -4416688200100390299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_67
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b39c3a638973330800000000000000
+      internalID: 3690585780096940877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c7397aa42378b0800000000000000
+      internalID: -5155736833812348425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_69
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d36dfeb2327617f0800000000000000
+      internalID: -642200334575508525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_70
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70354862f68642d10800000000000000
+      internalID: 2099918152858358535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc Edited_71
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562bbfea699542fd0800000000000000
+      internalID: -2367669000374341019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

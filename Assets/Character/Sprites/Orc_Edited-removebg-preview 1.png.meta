@@ -1,0 +1,1400 @@
+fileFormatVersion: 2
+guid: ba427b3674052574fa2ec916e975e278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6429620076211216604
+    second: Orc_Edited-removebg-preview_0
+  - first:
+      213: 4107750905105244882
+    second: Orc_Edited-removebg-preview_1
+  - first:
+      213: -5080935229710055066
+    second: Orc_Edited-removebg-preview_2
+  - first:
+      213: 5635115037109773946
+    second: Orc_Edited-removebg-preview_3
+  - first:
+      213: 1043123244163864338
+    second: Orc_Edited-removebg-preview_4
+  - first:
+      213: 8423341565295291118
+    second: Orc_Edited-removebg-preview_5
+  - first:
+      213: 7351318904721904090
+    second: Orc_Edited-removebg-preview_6
+  - first:
+      213: 6569177769753687277
+    second: Orc_Edited-removebg-preview_7
+  - first:
+      213: -5325017674037442799
+    second: Orc_Edited-removebg-preview_8
+  - first:
+      213: 2244426705545460423
+    second: Orc_Edited-removebg-preview_9
+  - first:
+      213: 8488979729976502071
+    second: Orc_Edited-removebg-preview_10
+  - first:
+      213: -1457763970988911691
+    second: Orc_Edited-removebg-preview_11
+  - first:
+      213: -690714314055590224
+    second: Orc_Edited-removebg-preview_12
+  - first:
+      213: -2303769146755358504
+    second: Orc_Edited-removebg-preview_13
+  - first:
+      213: -7980442390519344601
+    second: Orc_Edited-removebg-preview_14
+  - first:
+      213: -8545390866316244949
+    second: Orc_Edited-removebg-preview_15
+  - first:
+      213: 6932775391296190745
+    second: Orc_Edited-removebg-preview_16
+  - first:
+      213: -4087297567673707341
+    second: Orc_Edited-removebg-preview_17
+  - first:
+      213: 1920694806329521054
+    second: Orc_Edited-removebg-preview_18
+  - first:
+      213: 5346813631863242237
+    second: Orc_Edited-removebg-preview_19
+  - first:
+      213: -176779716472861054
+    second: Orc_Edited-removebg-preview_20
+  - first:
+      213: 4451919764669039938
+    second: Orc_Edited-removebg-preview_21
+  - first:
+      213: 6198282833398999141
+    second: Orc_Edited-removebg-preview_22
+  - first:
+      213: -6226742199694197780
+    second: Orc_Edited-removebg-preview_23
+  - first:
+      213: 6947478499937400442
+    second: Orc_Edited-removebg-preview_24
+  - first:
+      213: -2048330845192447322
+    second: Orc_Edited-removebg-preview_25
+  - first:
+      213: 5982512818734216040
+    second: Orc_Edited-removebg-preview_26
+  - first:
+      213: -173334684781596802
+    second: Orc_Edited-removebg-preview_27
+  - first:
+      213: -4178698861552853937
+    second: Orc_Edited-removebg-preview_28
+  - first:
+      213: 1168877640172838075
+    second: Orc_Edited-removebg-preview_29
+  - first:
+      213: 2361487958319967198
+    second: Orc_Edited-removebg-preview_30
+  - first:
+      213: 2668196620350628084
+    second: Orc_Edited-removebg-preview_31
+  - first:
+      213: 8518550476157257385
+    second: Orc_Edited-removebg-preview_32
+  - first:
+      213: -3285646263859451606
+    second: Orc_Edited-removebg-preview_33
+  - first:
+      213: 3304993833141182522
+    second: Orc_Edited-removebg-preview_34
+  - first:
+      213: 2361301411377063867
+    second: Orc_Edited-removebg-preview_35
+  - first:
+      213: 2343041384774759906
+    second: Orc_Edited-removebg-preview_36
+  - first:
+      213: 7926213529883030039
+    second: Orc_Edited-removebg-preview_37
+  - first:
+      213: 1433386892622665592
+    second: Orc_Edited-removebg-preview_38
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 274
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd5b43b9665c6a0800000000000000
+      internalID: -6429620076211216604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 274
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d266943fa9a10930800000000000000
+      internalID: 4107750905105244882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 274
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694d5a1454ec79b0800000000000000
+      internalID: -5080935229710055066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 274
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e3672543f33e40800000000000000
+      internalID: 5635115037109773946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 274
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2171759501be97e00800000000000000
+      internalID: 1043123244163864338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 274
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea653d5688b5e470800000000000000
+      internalID: 8423341565295291118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 219
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1109a4891250660800000000000000
+      internalID: 7351318904721904090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 219
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bf8860686a2b50800000000000000
+      internalID: 6569177769753687277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 219
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117425c73acb916b0800000000000000
+      internalID: -5325017674037442799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 167
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caff6c723ec52f10800000000000000
+      internalID: 2244426705545460423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 167
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737adbe761aeec570800000000000000
+      internalID: 8488979729976502071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 167
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3d7d6546bf4cbe0800000000000000
+      internalID: -1457763970988911691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be507dadf61a66f0800000000000000
+      internalID: -690714314055590224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 167
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0642bba2e5700e0800000000000000
+      internalID: -2303769146755358504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 164
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72210a29de5cf3190800000000000000
+      internalID: -7980442390519344601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 115
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284a52584ca86980800000000000000
+      internalID: -8545390866316244949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 114
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91977c9ac7a263060800000000000000
+      internalID: 6932775391296190745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b49d7384800747c0800000000000000
+      internalID: -4087297567673707341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 115
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93753500cda7aa10800000000000000
+      internalID: 1920694806329521054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 115
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdbc676ba2b33a40800000000000000
+      internalID: 5346813631863242237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 115
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0424d8c3fb8df0800000000000000
+      internalID: -176779716472861054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 115
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24583ad407568cd30800000000000000
+      internalID: 4451919764669039938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 115
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5682626a569b40650800000000000000
+      internalID: 6198282833398999141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebfa47c5fa2699a0800000000000000
+      internalID: -6226742199694197780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 63
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76be69e2e66a6060800000000000000
+      internalID: 6947478499937400442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 63
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa14d5e2fdd293e0800000000000000
+      internalID: -2048330845192447322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863bfd046b7260350800000000000000
+      internalID: 5982512818734216040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fa656c501389df0800000000000000
+      internalID: -173334684781596802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 10
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c10dd66874206c0800000000000000
+      internalID: -4178698861552853937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc16605500b83010800000000000000
+      internalID: 1168877640172838075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 10
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb260159c0b5c020800000000000000
+      internalID: 2361487958319967198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 10
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0a5e280b6570520800000000000000
+      internalID: 2668196620350628084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 10
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6869c5688f73670800000000000000
+      internalID: 8518550476157257385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 10
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a296111912a0762d0800000000000000
+      internalID: -3285646263859451606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ac317162bddd20800000000000000
+      internalID: 3304993833141182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb722c87f1705c020800000000000000
+      internalID: 2361301411377063867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f989b9b7248020800000000000000
+      internalID: 2343041384774759906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 10
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b296e5319ffd60800000000000000
+      internalID: 7926213529883030039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orc_Edited-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 10
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8779970d8c964e310800000000000000
+      internalID: 1433386892622665592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -303, y: -108.5}
+      - {x: -303, y: -155.5}
+      - {x: -278, y: -155.5}
+      - {x: -269, y: -150.5}
+      - {x: -269, y: -117.5}
+      - {x: -281, y: -108.5}
+    - - {x: -244, y: -108.5}
+      - {x: -252, y: -119.5}
+      - {x: -252, y: -148.5}
+      - {x: -244, y: -155.5}
+      - {x: -229, y: -155.5}
+      - {x: -218, y: -147.5}
+      - {x: -218, y: -119.5}
+      - {x: -226, y: -108.5}
+    - - {x: -192, y: -108.5}
+      - {x: -198, y: -116.5}
+      - {x: -198, y: -154.5}
+      - {x: -192, y: -155.5}
+      - {x: -171, y: -155.5}
+      - {x: -162, y: -152.5}
+      - {x: -162, y: -115.5}
+      - {x: -174, y: -108.5}
+    - - {x: -106, y: -110.5}
+      - {x: -113, y: -108.5}
+      - {x: -130, y: -108.5}
+      - {x: -138, y: -120.5}
+      - {x: -140, y: -140.5}
+      - {x: -140, y: -147.5}
+      - {x: -129, y: -155.5}
+      - {x: -120, y: -155.5}
+      - {x: -105, y: -147.5}
+      - {x: -103, y: -143.5}
+      - {x: -103, y: -126.5}
+    - - {x: -81, y: -108.5}
+      - {x: -87, y: -120.5}
+      - {x: -89, y: -128.5}
+      - {x: -89, y: -150.5}
+      - {x: -79, y: -155.5}
+      - {x: -61, y: -155.5}
+      - {x: -54, y: -151.5}
+      - {x: -54, y: -116.5}
+      - {x: -55, y: -108.5}
+    - - {x: -28, y: -108.5}
+      - {x: -37, y: -114.5}
+      - {x: -37, y: -151.5}
+      - {x: -29, y: -155.5}
+      - {x: -7, y: -155.5}
+      - {x: -3, y: -146.5}
+      - {x: -3, y: -113.5}
+      - {x: -12, y: -108.5}
+    - - {x: 43, y: -108.5}
+      - {x: 19, y: -108.5}
+      - {x: 18, y: -111.5}
+      - {x: 18, y: -155.5}
+      - {x: 43, y: -155.5}
+      - {x: 50, y: -148.5}
+      - {x: 52, y: -144.5}
+      - {x: 52, y: -111.5}
+    - - {x: 76, y: -108.5}
+      - {x: 68, y: -110.5}
+      - {x: 67, y: -114.5}
+      - {x: 67, y: -155.5}
+      - {x: 97, y: -155.5}
+      - {x: 99, y: -148.5}
+      - {x: 99, y: -113.5}
+      - {x: 91, y: -108.5}
+    - - {x: 123, y: -108.5}
+      - {x: 120, y: -110.5}
+      - {x: 120, y: -155.5}
+      - {x: 146, y: -155.5}
+      - {x: 151, y: -152.5}
+      - {x: 151, y: -112.5}
+      - {x: 148, y: -108.5}
+    - - {x: 193, y: -108.5}
+      - {x: 179, y: -108.5}
+      - {x: 171, y: -119.5}
+      - {x: 171, y: -153.5}
+      - {x: 172, y: -155.5}
+      - {x: 195, y: -155.5}
+      - {x: 202, y: -149.5}
+      - {x: 203, y: -142.5}
+      - {x: 203, y: -120.5}
+    - - {x: 232, y: -108.5}
+      - {x: 226, y: -118.5}
+      - {x: 226, y: -153.5}
+      - {x: 228, y: -155.5}
+      - {x: 248, y: -155.5}
+      - {x: 257, y: -151.5}
+      - {x: 257, y: -120.5}
+      - {x: 247, y: -108.5}
+    - - {x: 278, y: -108.5}
+      - {x: 273, y: -116.5}
+      - {x: 273, y: -155.5}
+      - {x: 302, y: -155.5}
+      - {x: 305, y: -147.5}
+      - {x: 305, y: -113.5}
+      - {x: 298, y: -108.5}
+    - - {x: -296, y: -55.5}
+      - {x: -303, y: -65.5}
+      - {x: -303, y: -83.5}
+      - {x: -300, y: -100.5}
+      - {x: -298, y: -102.5}
+      - {x: -284, y: -102.5}
+      - {x: -278, y: -101.5}
+      - {x: -270, y: -97.5}
+      - {x: -270, y: -66.5}
+      - {x: -281, y: -55.5}
+    - - {x: -251, y: -55.5}
+      - {x: -254, y: -73.5}
+      - {x: -254, y: -101.5}
+      - {x: -253, y: -102.5}
+      - {x: -229, y: -102.5}
+      - {x: -219, y: -97.5}
+      - {x: -219, y: -68.5}
+      - {x: -222, y: -61.5}
+      - {x: -227, y: -55.5}
+    - - {x: -208, y: -73.5}
+      - {x: -208, y: -98.5}
+      - {x: -206, y: -102.5}
+      - {x: -181, y: -102.5}
+      - {x: -170, y: -96.5}
+      - {x: -170, y: -67.5}
+      - {x: -173, y: -59.5}
+      - {x: -178, y: -55.5}
+      - {x: -195, y: -55.5}
+      - {x: -201, y: -59.5}
+    - - {x: -126, y: -55.5}
+      - {x: -145, y: -55.5}
+      - {x: -153, y: -61.5}
+      - {x: -153, y: -96.5}
+      - {x: -151, y: -102.5}
+      - {x: -121, y: -102.5}
+      - {x: -113, y: -92.5}
+      - {x: -113, y: -76.5}
+      - {x: -115, y: -62.5}
+    - - {x: -252, y: -3.5}
+      - {x: -258, y: -11.5}
+      - {x: -258, y: -34.5}
+      - {x: -254, y: -48.5}
+      - {x: -251, y: -51.5}
+      - {x: -235, y: -51.5}
+      - {x: -225, y: -45.5}
+      - {x: -225, y: -16.5}
+      - {x: -236, y: -3.5}
+    - - {x: -299, y: -3.5}
+      - {x: -303, y: -14.5}
+      - {x: -303, y: -50.5}
+      - {x: -277, y: -50.5}
+      - {x: -271, y: -43.5}
+      - {x: -271, y: -15.5}
+      - {x: -283, y: -3.5}
+    - - {x: -202, y: -3.5}
+      - {x: -216, y: -10.5}
+      - {x: -216, y: -32.5}
+      - {x: -208, y: -50.5}
+      - {x: -173, y: -50.5}
+      - {x: -173, y: -9.5}
+      - {x: -184, y: -3.5}
+    - - {x: -146, y: -3.5}
+      - {x: -152, y: -12.5}
+      - {x: -152, y: -29.5}
+      - {x: -147, y: -50.5}
+      - {x: -121, y: -50.5}
+      - {x: -120, y: -47.5}
+      - {x: -120, y: -9.5}
+      - {x: -130, y: -3.5}
+    - - {x: -97, y: -3.5}
+      - {x: -102, y: -6.5}
+      - {x: -102, y: -29.5}
+      - {x: -97, y: -50.5}
+      - {x: -76, y: -50.5}
+      - {x: -69, y: -47.5}
+      - {x: -69, y: -10.5}
+      - {x: -75, y: -3.5}
+    - - {x: -38, y: -3.5}
+      - {x: -44, y: -8.5}
+      - {x: -44, y: -50.5}
+      - {x: -16, y: -50.5}
+      - {x: -11, y: -32.5}
+      - {x: -11, y: -13.5}
+      - {x: -21, y: -3.5}
+    - - {x: 33, y: -4.5}
+      - {x: 19, y: -4.5}
+      - {x: 5, y: -12.5}
+      - {x: 5, y: -50.5}
+      - {x: 33, y: -50.5}
+      - {x: 42, y: -39.5}
+      - {x: 42, y: -26.5}
+      - {x: 39, y: -13.5}
+    - - {x: 63, y: -4.5}
+      - {x: 54, y: -38.5}
+      - {x: 54, y: -47.5}
+      - {x: 59, y: -50.5}
+      - {x: 87, y: -50.5}
+      - {x: 91, y: -44.5}
+      - {x: 91, y: -18.5}
+      - {x: 89, y: -4.5}
+    - - {x: -19, y: 32.5}
+      - {x: -42, y: 24.5}
+      - {x: -42, y: -1.5}
+      - {x: 8, y: -1.5}
+      - {x: 8, y: 32.5}
+    - - {x: -274, y: 47.5}
+      - {x: -280, y: 48.5}
+      - {x: -287, y: 48.5}
+      - {x: -300, y: 41.5}
+      - {x: -303, y: 25.5}
+      - {x: -303, y: 7.5}
+      - {x: -301, y: 1.5}
+      - {x: -278, y: 1.5}
+      - {x: -272, y: 7.5}
+      - {x: -268, y: 19.5}
+      - {x: -268, y: 34.5}
+    - - {x: -238, y: 46.5}
+      - {x: -244, y: 37.5}
+      - {x: -251, y: 24.5}
+      - {x: -253, y: 10.5}
+      - {x: -253, y: 3.5}
+      - {x: -252, y: 1.5}
+      - {x: -225, y: 1.5}
+      - {x: -216, y: 3.5}
+      - {x: -216, y: 37.5}
+      - {x: -221, y: 46.5}
+    - - {x: -186, y: 41.5}
+      - {x: -198, y: 18.5}
+      - {x: -198, y: 2.5}
+      - {x: -197, y: 1.5}
+      - {x: -163, y: 1.5}
+      - {x: -155, y: 13.5}
+      - {x: -155, y: 35.5}
+      - {x: -158, y: 41.5}
+    - - {x: -84, y: 34.5}
+      - {x: -95, y: 17.5}
+      - {x: -95, y: 1.5}
+      - {x: -57, y: 1.5}
+      - {x: -48, y: 8.5}
+      - {x: -48, y: 30.5}
+      - {x: -54, y: 34.5}
+    - - {x: -127, y: 39.5}
+      - {x: -149, y: 17.5}
+      - {x: -149, y: 8.5}
+      - {x: -146, y: 2.5}
+      - {x: -114, y: 2.5}
+      - {x: -104, y: 14.5}
+      - {x: -104, y: 33.5}
+      - {x: -106, y: 39.5}
+    - - {x: -294, y: 99.5}
+      - {x: -302, y: 82.5}
+      - {x: -302, y: 53.5}
+      - {x: -267, y: 53.5}
+      - {x: -267, y: 99.5}
+    - - {x: -215, y: 56.5}
+      - {x: -213, y: 69.5}
+      - {x: -213, y: 93.5}
+      - {x: -221, y: 99.5}
+      - {x: -232, y: 99.5}
+      - {x: -245, y: 91.5}
+      - {x: -250, y: 72.5}
+      - {x: -250, y: 59.5}
+      - {x: -245, y: 53.5}
+      - {x: -237, y: 53.5}
+      - {x: -234, y: 56.5}
+      - {x: -233, y: 53.5}
+    - - {x: -177, y: 97.5}
+      - {x: -184, y: 93.5}
+      - {x: -199, y: 73.5}
+      - {x: -199, y: 67.5}
+      - {x: -193, y: 53.5}
+      - {x: -168, y: 53.5}
+      - {x: -159, y: 66.5}
+      - {x: -159, y: 93.5}
+      - {x: -167, y: 97.5}
+    - - {x: -297, y: 156.5}
+      - {x: -303, y: 148.5}
+      - {x: -303, y: 108.5}
+      - {x: -280, y: 108.5}
+      - {x: -270, y: 118.5}
+      - {x: -270, y: 143.5}
+      - {x: -282, y: 156.5}
+    - - {x: -247, y: 156.5}
+      - {x: -253, y: 147.5}
+      - {x: -253, y: 109.5}
+      - {x: -252, y: 108.5}
+      - {x: -230, y: 108.5}
+      - {x: -221, y: 110.5}
+      - {x: -220, y: 112.5}
+      - {x: -220, y: 141.5}
+      - {x: -225, y: 156.5}
+    - - {x: -175, y: 156.5}
+      - {x: -195, y: 156.5}
+      - {x: -200, y: 145.5}
+      - {x: -200, y: 108.5}
+      - {x: -177, y: 108.5}
+      - {x: -167, y: 113.5}
+      - {x: -167, y: 143.5}
+      - {x: -171, y: 155.5}
+    - - {x: -124, y: 156.5}
+      - {x: -143, y: 156.5}
+      - {x: -149, y: 142.5}
+      - {x: -149, y: 108.5}
+      - {x: -119, y: 108.5}
+      - {x: -114, y: 111.5}
+      - {x: -114, y: 152.5}
+    - - {x: -68, y: 154.5}
+      - {x: -76, y: 156.5}
+      - {x: -89, y: 156.5}
+      - {x: -96, y: 143.5}
+      - {x: -96, y: 108.5}
+      - {x: -70, y: 108.5}
+      - {x: -63, y: 113.5}
+      - {x: -62, y: 119.5}
+      - {x: -62, y: 145.5}
+    - - {x: -41, y: 156.5}
+      - {x: -44, y: 147.5}
+      - {x: -44, y: 109.5}
+      - {x: -43, y: 108.5}
+      - {x: -17, y: 108.5}
+      - {x: -10, y: 118.5}
+      - {x: -10, y: 142.5}
+      - {x: -21, y: 156.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
